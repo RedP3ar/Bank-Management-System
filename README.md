@@ -1,13 +1,28 @@
 # Bank Management System
-
 This is an APP serves as a test and exercise for my learning of C++ and, in the end, will have a working GUI for its functions.
 Also, my objective is to track my skils in C++ as the time goes by.
 
+## Description
 
-#Index
-[Introduction]
-[Main Functions]
-[Install]
-[Objective]
 
-#Introduction
+## Index
+
+- [Introduction](#introduction)
+
+- [Main Functions](#main-functions)
+
+- [Install](#install)
+
+- [Objective](#objective)
+
+
+## Introduction
+
+
+## Main Functions
+
+
+## Install
+
+
+## Objective
